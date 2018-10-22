@@ -1,0 +1,13 @@
+#demo {
+   
+    font-family: 'Mali', cursive;
+}
+
+.para {
+    font-family: 'Fahkwang', sans-serif;
+
+}
+
+ul li:first-child{
+    font-family: 'Gloria Hallelujah', cursive;
+}
